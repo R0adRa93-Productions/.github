@@ -2,8 +2,13 @@
   Ra93 Core Framework
 </p>
 
-## 👋 Vision Statement
+## :eyes: Vision Statement
+
 To create a fiveM framework that is easy to implement, easy to expand upon and provides fun and engaging activities for the players that utilize those servers.
+
+## :oncoming_automobile: Mission Statement
+
+Ra93 Core develops resources that allows fiveM server owners to quickly build and implement fun and engageing servers for their players to enjoy!
 
 ## 📚 Documentation
 ***Coming Soon***
